@@ -11,15 +11,15 @@ const Navbar: React.FC = () => {
           {/* Logo Section */}
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center gap-3">
-              {/* Replaced Icon with Logo Image */}
+              {/* Replaced Icon with Logo Image - Using JPG version for stability */}
               <img 
-                src="https://i.ibb.co/HDq4vGzx/LOGOTIO.png" 
+                src="https://i.ibb.co/DPb3xyFC/LOGOTIO.jpg" 
                 alt="LB Games Logo" 
-                className="h-14 w-auto object-contain drop-shadow-md hover:scale-105 transition-transform duration-300"
+                className="h-14 w-auto object-contain drop-shadow-md hover:scale-105 transition-transform duration-300 rounded-md"
               />
               <div className="flex flex-col">
                 <span className="font-extrabold text-2xl tracking-tight leading-none">LB Games</span>
-                <span className="text-xs text-blue-200 font-medium tracking-wide">Assistência & Games</span>
+                <span className="text-xs text-blue-200 font-medium tracking-wide">Loja & Assistência</span>
               </div>
             </div>
           </div>

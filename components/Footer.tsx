@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
               <span className="font-bold text-2xl tracking-tight text-white">LB Games</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed mb-6">
-              Referência em assistência técnica e comércio de games em Pernambuco. Qualidade técnica e atendimento humanizado.
+              Referência técnica e vendas de games em Pernambuco. Qualidade e confiança.
             </p>
             <div className="flex space-x-4">
               <a 
