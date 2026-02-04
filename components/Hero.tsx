@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
 
             {/* Main Headline */}
             <h1 className="text-4xl md:text-5xl lg:text-7xl font-black tracking-tight leading-[1.1]">
-              Troca, Venda e <br />
+              Vendas, Trocas e <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500">
                 Assistência Técnica
               </span>
@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
             
             {/* Subheadline - Benefit Oriented - SIMPLIFIED */}
             <p className="text-lg md:text-xl text-gray-300 max-w-lg mx-auto lg:mx-0 leading-relaxed font-medium">
-              Há 12 anos em Recife. Use seu usado na troca, destrave seu Switch ou faça manutenção com especialistas.
+              Há 12 anos em Recife. Aceitamos seu usado como parte do pagamento.
             </p>
             
             {/* Action Buttons */}

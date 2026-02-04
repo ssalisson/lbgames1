@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lbgames.com.br/sitemap.xml
