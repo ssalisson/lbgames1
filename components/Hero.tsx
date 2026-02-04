@@ -4,7 +4,7 @@ import { WHATSAPP_NUMBER } from '../constants';
 
 const Hero: React.FC = () => {
   return (
-    <div id="home" className="relative bg-gray-900 text-white overflow-hidden flex flex-col justify-center min-h-[600px] lg:h-[85vh]">
+    <div id="home" className="relative bg-gray-900 text-white overflow-hidden flex flex-col justify-center min-h-[600px] lg:min-h-[calc(100vh-5rem)]">
       {/* Background with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
